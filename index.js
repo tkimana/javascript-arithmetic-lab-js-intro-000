@@ -1,1 +1,4 @@
-var number = 5
+functio add(1+2) {
+  return 3
+}
+
